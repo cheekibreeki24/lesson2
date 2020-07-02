@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+}
+.all {
+    width: 1400px;
+    height: 590px;
+}
+
+.awesome {
+    height: 26px;
+    text-align: center;
+    padding-top: 107px;
+    margin-bottom: 30px; 
+    font-family: 'Raleway', sans-serif;
+}
+
+.line {
+    border: 2px solid orange;
+    width: 64px;
+    margin: 30px auto;
+    
+}
+
+.afterline {
+    width: 644px;
+    height: 14px;
+    padding: 0 520px;font-family: 'Open Sans', sans-serif;
+}
+
+.squarebox {
+    width: 1161px;
+    height: 277px;
+    margin: 0 119px;
+}
+
+.square {
+    width: 359px;
+    height: 277px;
+    float: right;
+    margin: 14px;
+    text-align: center;
+}
+
+.lightning {
+    border: 5px solid orange;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 64px 144px 0;
+    background-image: url(img/lightning.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 17px 31px;
+}
+
+.keyboard {
+    border: 5px solid orange;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 64px 144px 0;
+    text-align: center;
+    background-image: url(img/keyboard.png);
+    background-repeat: no-repeat;
+    background-position: center;    
+}
+
+.light {
+    border: 5px solid orange;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 64px 144px 0;
+    text-align: center;
+    background-image: url(img/light1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.thoughtful {
+    padding: 29px 84px 30px;
+    width: 181px;
+    height: 21px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.well {
+    padding: 29px 84px 30px;
+    width: 181px;
+    height: 21px;
+    font-size: 20px;
+}
+
+.easy {
+    padding: 29px 84px 30px;
+    width: 181px;
+    height: 21px;
+    font-size: 20px;
+}
